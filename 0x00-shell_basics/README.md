@@ -1,1 +1,1 @@
-removing betty
+removing frst directory
